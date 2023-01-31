@@ -1,6 +1,6 @@
 alea: 
     explication: Création d'une coordonnées entre deux variable (ici, -50,50)
-    complexite: La compléxité est linéaire. La compléxite est de 
+    complexite: La compléxité est linéaire. La compléxite est de 1
 
 centreExam:
     explication: Création de toutes les coordonnées des centres examen en utilisant alea (ici, 20 centres)
@@ -8,11 +8,11 @@ centreExam:
     
 distance:
     explication: Calcul de la distance entre deux coordonnées
-    complexite: La compléxité est . La compléxite est de 
+    complexite: La compléxité est linéaire. La compléxite est de 1
     
 GPS:
     explication: Calcul du centre d'éxamen le plus proche de nos coordonnées
-    complexite: La compléxité est . La compléxite est de 
+    complexite: La compléxité est linéaire. La compléxite est de len(listecentre)
     
 insertion, Tri_par_insertion:
     explication: Calcul et création d'une liste avec toutes les coordonnées dans l'ordre croissant
