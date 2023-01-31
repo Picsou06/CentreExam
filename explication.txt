@@ -1,23 +1,23 @@
 alea: 
     explication: Création d'une coordonnées entre deux variable (ici, -50,50)
-    poids:
+    complexite: La compléxité est . C'est une fonction avec  donc la compléxite est de 1/2n²-1/2n
 
 centreExam:
     explication: Création de toutes les coordonnées des centres examen en utilisant alea (ici, 20 centres)
-    poids:
+    complexite: La compléxité est . C'est une fonction avec  donc la compléxite est de 1/2n²-1/2n
     
 distance:
     explication: Calcul de la distance entre deux coordonnées
-    poids:
+    complexite: La compléxité est . C'est une fonction avec  donc la compléxite est de 1/2n²-1/2n
     
 GPS:
     explication: Calcul du centre d'éxamen le plus proche de nos coordonnées
-    poids:
+    complexite: La compléxité est . C'est une fonction avec  donc la compléxite est de 1/2n²-1/2n 
     
 insertion, Tri_par_insertion:
     explication: Calcul et création d'une liste avec toutes les coordonnées dans l'ordre croissant
-    poids:
+    complexite: La compléxité est . C'est une fonction avec  donc la compléxite est de 1/2n²-1/2n
     
 Création du schéma:
     explication: utilisation de toutes les fonctions pour calculer et crée nos coordonnées, les coordonnées d'éxamen, calcul du centre d'éxam le plus proche, ajout d'une ligne entre nos coordonnées et le centre d'éxam le plus proche, création d'un cercle de rayon la distance avec le plus proche
-    poids:
+    complexite: La compléxité est . C'est une fonction avec  donc la compléxite est de 1/2n²-1/2n
