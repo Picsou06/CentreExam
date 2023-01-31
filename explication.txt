@@ -1,0 +1,23 @@
+alea: 
+    explication: Création d'une coordonnées entre deux variable (ici, -50,50)
+    poids:
+
+centreExam:
+    explication: Création de toutes les coordonnées des centres examen en utilisant alea (ici, 20 centres)
+    poids:
+    
+distance:
+    explication: Calcul de la distance entre deux coordonnées
+    poids:
+    
+GPS:
+    explication: Calcul du centre d'éxamen le plus proche de nos coordonnées
+    poids:
+    
+insertion, Tri_par_insertion:
+    explication: Calcul et création d'une liste avec toutes les coordonnées dans l'ordre croissant
+    poids:
+    
+Création du schéma:
+    explication: utilisation de toutes les fonctions pour calculer et crée nos coordonnées, les coordonnées d'éxamen, calcul du centre d'éxam le plus proche, ajout d'une ligne entre nos coordonnées et le centre d'éxam le plus proche, création d'un cercle de rayon la distance avec le plus proche
+    poids:
